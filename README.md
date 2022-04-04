@@ -4,11 +4,10 @@
 
 1. create new dynamodb table.
 
-
 DynamoDB table:
-sub (Cognito generated uuid): Key
-dashboard_uuid: Sort
-data: dashboard obj
+- sub (Cognito generated uuid): Key
+- dashboard_uuid: Sort
+- data: dashboard obj
 
 2. Create new api endpoint - '/dashboard'
 
@@ -32,30 +31,29 @@ https://github.com/Emmyn5600/AnalyticsFormat_Task.git
 - Type `uvicorn main:app --reload --env-file=".env"` to run application.
  
 
-```bash
 
 Terminal
 
-- ![screenshot](./terminal.png)
+- ![screenshot](./assets/terminal.png)
 
 Navigate to browser and type in the following address:
 
 - http://127.0.0.1:8000/docs. you will see the following.
 
-- ![screenshot](./apis.png)
+- ![screenshot](./assets/apis.png)
 
 POST endpoint: `POST/dashboard/create`
 
-- ![screenshot](./post.png)
+- ![screenshot](./assets/post.png)
 
 GET all endpoint: `GET/dashboard/all`
 
-- ![screenshot](./all.png)
+- ![screenshot](./assets/all.png)
 
 
 GET by uuid and sub endpoint: `GET/dashboard/retrieve`
 
-- ![screenshot](./uuid.png)
+- ![screenshot](./assets/uuid.png)
 
 
 
