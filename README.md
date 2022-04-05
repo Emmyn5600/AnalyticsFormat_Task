@@ -56,4 +56,9 @@ GET by uuid and sub endpoint: `GET/dashboard/retrieve`
 - ![screenshot](./assets/uuid.png)
 
 
+### DynamoDB on AWS
 
+- ![screenshot](./assets/dynamo.png)
+
+
+- ![screenshot](./assets/Dynamodb.png)
