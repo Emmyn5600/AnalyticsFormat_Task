@@ -11,9 +11,9 @@ DynamoDB table:
 
 2. Create new api endpoint - '/dashboard'
 
-1) endpoint that can validate and store a dashboard object
-2) endpoint that returns a uuid list for available dashboard objects
-3) endpoint that returns a dashboard object referenced by its uuid and sub
+- endpoint that can validate and store a dashboard object
+- endpoint that returns a uuid list for available dashboard objects
+- endpoint that returns a dashboard object referenced by its uuid and sub
 
 ## Getting started
 
