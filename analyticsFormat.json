@@ -1,0 +1,124 @@
+{
+  "annualFootprint": {
+    "startYear": 2019,
+    "endYear": 2022,
+    "data": [
+      {
+        "date": 2011,
+        "evergreen_1": -0.6,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2012,
+        "evergreen_1": -0.8,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2013,
+        "evergreen_1": -1.5,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2014,
+        "evergreen_1": -1.65,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2015,
+        "evergreen_1": -1,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2016,
+        "evergreen_1": -1.9,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2017,
+        "evergreen_1": -1.6,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2018,
+        "evergreen_1": -1.7,
+        "evergreen_2": 1
+      }
+    ],
+    "dataKeys": [
+      {
+        "key": "evergreen_1",
+        "enabled": true,
+        "name": "Evergreen Broadleaf forest_1",
+        "type": "bar"
+      },
+      {
+        "key": "evergreen_2",
+        "enabled": true,
+        "name": "Evergreen Broadleaf forest_2",
+        "type": "bar"
+      }
+    ]
+  },
+  "monthlyFootprint": {
+    "startYear": 2019,
+    "startMonth": 1,
+    "endYear": 2022,
+    "endMonth": 11,
+    "data": [
+      {
+        "date": 2011,
+        "evergreen_1": -0.6,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2012,
+        "evergreen_1": -0.8,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2013,
+        "evergreen_1": -1.5,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2014,
+        "evergreen_1": -1.65,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2015,
+        "evergreen_1": -1,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2016,
+        "evergreen_1": -1.9,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2017,
+        "evergreen_1": -1.6,
+        "evergreen_2": 1
+      },
+      {
+        "date": 2018,
+        "evergreen_1": -1.7,
+        "evergreen_2": 1
+      }
+    ],
+    "dataKeys": [
+      {
+        "key": "evergreen_1",
+        "enabled": true,
+        "name": "Evergreen Broadleaf forest_1",
+        "type": "bar"
+      },
+      {
+        "key": "evergreen_2",
+        "enabled": true,
+        "name": "Evergreen Broadleaf forest_2",
+        "type": "bar"
+      }
+    ]
+  }
+}
